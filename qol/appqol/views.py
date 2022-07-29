@@ -1,5 +1,5 @@
 from django.shortcuts import render, redirect
-import requests
+#import requests
 import json
 
 def home(request):
